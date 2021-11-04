@@ -12,7 +12,7 @@ import java.util.List;
 
 public class GitHub {
 
-    final String LOGIN = "CuentaTestOB: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";
+    final String LOGIN = "CuentaTestOB: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";
     ArrayList<String> repositories = new ArrayList<>();
     ArrayList<String> commits = new ArrayList<>();
 
